@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikegc-aws-lambda-mcp-server-badge.png)](https://mseep.ai/app/mikegc-aws-lambda-mcp-server)
+
 # Lambda MCP Server Demo (Streamable HTTP) 
 
 > This server requires a client that supports Streamable HTTP (not SSE).  There are very few MCP clients that currently support Streamable HTTP (let me know if you have one), as such there is a Streamable HTTP client included in this repo, built with the [TypeScript MCP SDK which does support Streamable HTTP](https://github.com/modelcontextprotocol/typescript-sdk?tab=readme-ov-file#streamable-http).

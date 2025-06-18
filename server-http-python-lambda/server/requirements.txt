@@ -1,2 +1,2 @@
-# No direct requirements needed - all provided by the layer 
-boto3==1.37.37
+boto3==1.38.38
+awslabs.mcp_lambda_handler==0.1.6
